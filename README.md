@@ -24,8 +24,6 @@ Documentation
   - [Twitter Developers](http://dev.twitter.com/)
   - [Python Package Documentation](http://packages.python.org/tweepy/html/index.html)
 
-Community
+Another Github Repository
 ---------
-  - [Google Group/Mailing list](http://groups.google.com/group/tweepy)
-  - IRC Chat (Freenode.net #tweepy)
-
+  - Tweepy(https://github.com/tweepy/tweepy)
