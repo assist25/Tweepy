@@ -26,4 +26,4 @@ Documentation
 
 Another Github Repository
 ---------
-  - Tweepy(https://github.com/tweepy/tweepy)
+  - Tweepy (https://github.com/tweepy/tweepy)
